@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-08-06 23:55+0200\n"
+"Last-Translator: Irma  <sankaypillo@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: quz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#  [ES] "Leer ETexts"
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "ETexts nisqata ñawichay"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"Imaymana p'anqakunata ñawichanapaqqa, mana qullqichaspallam Proyecto "
+"Gutenberg nisqamanta imaymana p'anqakunata texto plano nisqapi uryachiy!"
+
+#  "Volver"
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Kutichiy"
+
+#  "Página anterior"
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Ñawpa raphi"
+
+#  "Anterior marcador"
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Ñawpa qillqachisqa"
+
+#  "Avanzar"
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Ñawpay"
+
+#  "Página siguiente"
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Hamuq raphi"
+
+#  "Siguiente marcador"
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Hamuq qillqachisqa"
+
+#  [ES] "Activar o desactivar marcador"
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "T'upsichiqta rikuchiy utaq pakay"
+
+#  "Subrayar"
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Ura siq'isqa"
+
+#  "Error"
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Pantay"
+
+#  [ES] "Debes introducir al menos una palabra en la búsqueda."
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Machkhananpaqqa, ch'ulla simillatapas churaruwaq."
+
+#  [ES] "Intento de coneccion terminado para "
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Kayman tinkuchiyqa tukurunña "
+
+#  [ES] "No se pudo descargar "
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Manam uyachikuytaqa atikunchu "
+
+#  [ES] " ruta en el catálogo puede ser incorrecta."
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " chayanapaq ñanqa, manapaschá allinchu kachkhan."
+
+#  [ES] "Éxito"
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Llalliy"
+
+#  [ES] " añadido al Diario."
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " P'anqaman yapasqa."
+
+#  [ES] "Error"
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Pantay"
+
+#  [ES] "Error al obtener el documento de tubo"
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Qillqa-khipu chaskiypi pantay rikurin"
+
+#  "Marcador"
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "T'upsichiq"
+
+#  "Reducir"
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Kharuykachaspa huch'uyachiq"
+
+#  "Ampliar"
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Achuykachaspa hatunyachiq"
+
+#  "Pantalla completa"
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Hunt'asqa pantalla"
+
+#  "Anterior"
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Ñawpaq"
+
+#  "Siguiente"
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Jamuq"
+
+#  [ES] "Obtener Libro"
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "P'anqata hap'iy"
+
+#  [ES] "Eliminar lista de resultados"
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Machkhasqakunamanta sinri kaqta chinkachiy"
+
+#  "Reproducir / Pausa"
+#  [ES] "Reproducir / Pausa"
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Purichiy / Utichiy"
+
+#  [ES] "tono ajustado"
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "Kunka mat'isqa"
+
+#  [ES] "velocidad ajustada"
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "Utqaynin mat'isqa"
+
+#  "Editar"
+#~ msgid "Edit"
+#~ msgstr "Allinchay"
+
+#  "Leer"
+#~ msgid "Read"
+#~ msgstr "Ñawichay"
+
+#  [ES] "Libros"
+#~ msgid "Books"
+#~ msgstr "P'anqakuna"
+
+#  "Ver"
+#~ msgid "View"
+#~ msgstr "Qhaway"
+
+#  [ES] "Habla"
+#~ msgid "Speech"
+#~ msgstr "Niy"

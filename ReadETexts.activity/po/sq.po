@@ -1,0 +1,193 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2010-02-16 13:26+0200\n"
+"Last-Translator: jon <joni-ber_rock@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "Lexo Tekstin Elektronik"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Prapa"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Faqja e mëparshme"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Fletshënimi i mëparshëm"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Përpara"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Faqja tjetër"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Fletshënimi tjetër"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Nënvizo"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Gabim"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Ju duhet të shënoni të paktën një fjalë kërkimi."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Lidhja u ndërpre për "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Nuk mund të shkarkohet "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " kalimi në katalogun mund të jetë i pasaktë."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Sukses"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr ""
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Dështim"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Gabim duke marr dokumentin nga tube"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Fletëshënim"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Largo"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Afro"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Ekran të plotë"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "I mëparshmi"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Tjetra"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Merr librin"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Hiq Listën e Rezultateve"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Luaj / Pusho"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "pika u rregullua"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "kategorizimi u rregullua"
+
+#~ msgid "Edit"
+#~ msgstr "Ndrysho"
+
+#~ msgid "Read"
+#~ msgstr "Lexo"
+
+#~ msgid "Books"
+#~ msgstr "Libra"
+
+#~ msgid "View"
+#~ msgstr "Shiko"
+
+#~ msgid "Speech"
+#~ msgstr "Fjalim"

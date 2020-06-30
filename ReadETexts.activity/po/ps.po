@@ -1,0 +1,185 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2010-01-19 07:52+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "برقي متنونه لوستل"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "شاته"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr ""
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "مخته"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr ""
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr ""
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "تېروتنه"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "تاسې باید د لټون لږ تر لږه یو توری ورکړئ."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "لپاره د پیوستون وخت تېر شو "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "کښته نکړای شو "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " د کاتالوګ لوری ښایي ناسم وي."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "بریالیتوب"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " ژورنال ته زیات شو."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "ناکامي"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "لاسوند د نل نه ترلاسه کولو کې تېروتنه"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr ""
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "لویدل"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "کمول"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "بشپړه پرده"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "مخکینی"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "بل"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "کتاب ترلاسه کول"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "د پایلو لیست لیرې کول"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "لوبول \\ درول"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "سطحه برابره شوه"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "کچه برابره شوه"
+
+#~ msgid "Edit"
+#~ msgstr "سمول"
+
+#~ msgid "Read"
+#~ msgstr "لوستل"
+
+#~ msgid "Books"
+#~ msgstr "کتابونه"
+
+#~ msgid "View"
+#~ msgstr "لید"
+
+#~ msgid "Speech"
+#~ msgstr "تقریر"

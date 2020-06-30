@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2010-02-07 03:11+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr ""
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Назад"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr ""
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Вперед"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr ""
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr ""
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr ""
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Ошибка"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Вы должны ввести по меньшей мере одно слово для поиска."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr ""
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Невозможно загрузить "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr ""
+
+#: ReadEtextsActivity.py:1286
+#, fuzzy
+msgid "Success"
+msgstr "Получилось!"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr ""
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Неудача"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr ""
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr ""
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Уменьшить"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Увеличить"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "На весь экран"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Следующий"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Получить книгу"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr ""
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr ""
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr ""
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr ""
+
+#~ msgid "Edit"
+#~ msgstr "Правка"
+
+#~ msgid "Read"
+#~ msgstr "Чтение"
+
+#~ msgid "Books"
+#~ msgstr "Книги"
+
+#~ msgid "View"
+#~ msgstr "Вид"
+
+#, fuzzy
+#~ msgid "Speech"
+#~ msgstr "Речь"

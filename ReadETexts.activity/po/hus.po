@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2012-06-24 02:14+0200\n"
+"Last-Translator: ing.arturo.lara <ing.arturo.lara@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "T'ojláb ajum"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Wichiy"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Walxeklek wat'elom"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "T'ipoxtaláb xi ok'xidh"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Áynanchij"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Junakej walxeklek"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Junakej t'ipoxtaláb"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "T'ipoxtaláb walkadh o yab walkadh"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Kits'oxtaláb"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "K'ibts'ontaláb"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Ka odha' abajúnk'ij i káw ti alimtaláb."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Putun ti lujkul ti pólts'óx abal "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Yab ejtowat ka pa'báj "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " an bél axi ti kwenétakuxtaláb walám yab alwa'."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Alwa'its"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " punk'unchámej ti chudhél dhuchlab."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "K'ibts'ontaláb"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "K'ibtson tamti in bats'uw ti jabaxpat'ál"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "T'apidhbél"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Tsipti'médha'"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Puwedha'"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Putát walek"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Wat'elom"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Junakej"
+
+# Libro = T'i'dhuchlab
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Bats'uw an t'i'dhuchlab"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Pakluw an nik'at tok'tsixtaláb"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Tsabk'wajba' / Tonk'iy"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "t'ojojodh janidhtaláb"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "t'ojojodh in janídh"
+
+#~ msgid "Edit"
+#~ msgstr "Jalkúy"
+
+#~ msgid "Read"
+#~ msgstr "Ajumtaláb"
+
+#~ msgid "Books"
+#~ msgstr "T'i'dhuchlabchik"
+
+#~ msgid "View"
+#~ msgstr "Tsu'uw"
+
+#~ msgid "Speech"
+#~ msgstr "Káw"

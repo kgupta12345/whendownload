@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-09-25 21:47+0200\n"
+"Last-Translator: Jakub <jamarat@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "Czytaj"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"Ściągnij i czytaj tysiące darmowych e-książek ze strony Projektu Gutenberg!"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Powrót"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Poprzednia strona"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Poprzednia zakładka"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Dalej"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Następna strona"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Następna zakładka"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "Aktywacja lub dezaktywacja zakładki"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Podkreślenie"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Błąd"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Musisz wpisać przynajmniej jedno słowo do wyszukiwania."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Próba połączenia zakończona dla "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Pobieranie nie powiodło się "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " ścieżka w katalogu może być niepoprawna."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Sukces"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " dodane do Dziennika."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Błąd"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Błąd pozyskania dokumentu z tuby"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Zakładka"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Zmniejsz"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Powiększ"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Pełny ekran"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Następny"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Weź Książkę"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Usuń listę wyników"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Start / Pauza"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "ton ustawiony"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "częstotliwość dostosowana"
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#~ msgid "Read"
+#~ msgstr "Czytaj"
+
+#~ msgid "Books"
+#~ msgstr "Książki"
+
+#~ msgid "View"
+#~ msgstr "Widok"
+
+#~ msgid "Speech"
+#~ msgstr "Mowa"

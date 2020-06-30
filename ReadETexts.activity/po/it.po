@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-10-26 23:44+0200\n"
+"Last-Translator: arosella <arosella@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "Lettore Testi"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"Scarica e leggi centinaia di libri elettronici gratuiti in formato testuale "
+"dal Progetto Guteberg!"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Indietro"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Segnalibro precedente"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Avanti"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Prossima pagina"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Prossimo segnalibro"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "Mostra segnalibri"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Sottolinea"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Errore"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Devi inserire almeno una parola da ricercare."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Connessione non disponibile (time out) per "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Non posso scaricare "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " il percorso nel catalogo potrebbe essere sbagliato."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Successo"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " aggiunto nel Diario."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Fallito"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Errore nel reperire il documento dalla rete"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Segnalibro"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Zoom indietro"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Zoom avanti"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Schermo intero"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Precedente"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Prossimo"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Prendi il libro"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Vuota la Lista di risultati"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Esegui/Pausa"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "Correggi intonazione"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "Correggi frequenza"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Read"
+#~ msgstr "Leggi"
+
+#~ msgid "Books"
+#~ msgstr "Libri"
+
+#~ msgid "View"
+#~ msgstr "Vista"
+
+#~ msgid "Speech"
+#~ msgstr "Parla"
+
+#~ msgid "Choose document"
+#~ msgstr "Scegli documento"

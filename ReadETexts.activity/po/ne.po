@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Nepali translations for PACKAGE package.
+# Copyright (C) 2009 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# James Simmons <ja.simmons@sbcglobal.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-11-20 07:26+0200\n"
+"Last-Translator: Ganesh <ganesh.ghimire@olenepal.org>\n"
+"Language-Team: Nepali\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "ई-पाठहरु पढ"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"गुटेनवर्ग प्रोजेक्टबाट plain text ढाँचामा हजारौँ ई-बुकहरू नि:शुल्क डाउनलोड "
+"गरेर पढ !"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "पछाडि"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "पहिलाको पाना"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "पहिलाको पुस्तकचिनो"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "अगाडि"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "यसपछिको पाना"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "यसपछिको पुस्तकचिनो"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "टगल पुस्तकचिनो"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "कच"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "त्रुति"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "तिमीले कम्तिमा एउटा शब्द प्रविष्टि गर्नुपर्छ"
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "को जडान समय सकियो "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "डाउनलोड गर्न सकिएन "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " विवरणिकाको बाटो गलत हुन सक्छ"
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "सफल"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " पंजिकामा थपियो"
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "असफलता"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "त्यूबबाट कागजात लिन त्रुटि भयो"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "पुस्तक-चिनो"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "सानो बनाऊ"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "ठूलो बनाऊ"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "पुरा स्क्रिन"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "पहिलाको"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "यसपछिको"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "किताब प्राप्त गर्नुहोस्"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "परिणामहरुको सूची  हटानुहोस्"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "सुरु गर / रोक"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "पिच समायोजन भयो"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "दर समायोजन भयो"
+
+#~ msgid "Edit"
+#~ msgstr "सम्पादन"
+
+#~ msgid "Read"
+#~ msgstr "पढ"
+
+#~ msgid "Books"
+#~ msgstr "किताबहरु"
+
+#~ msgid "View"
+#~ msgstr "दृश्य"
+
+#~ msgid "Speech"
+#~ msgstr "इस्पिच"

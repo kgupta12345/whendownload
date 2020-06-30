@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Arabic translations for PACKAGE package.
+# Copyright (C) 2009 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# James Simmons <ja.simmons@sbcglobal.net>, 2009.
+# Khaled Hosny <khaledhosny@eglug.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2014-04-29 01:37+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Arabic <doc@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "قارئ النصوص الإلكترونيه"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"نَزِل وإقرأ الآلاف من الكتب الإلكترونيه المجانيه فى صيغه نص مُجَرد من خِلال "
+"موقع مشروع غوتنبرج"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "للخلف"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "العلامة السابقة"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "للأمام"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "العلامة التالية"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "بدّل العلامة"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "سَطِر"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "خطأ"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "يتوجب عليك إدخال كلمه للبحث عنها."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "انتهت مهلة الاتصال "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "تعذّر التنزيل "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " المسار في الفهرس قد يكون غير صحيح."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "تم بنجاح"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " أضيف إلى الدفتر"
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "فشل"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "فشل الحصول على الملف من القناة"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "علّم"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "بعّد"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "قرّب"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "ملء الشاشة"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "السابق"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "التالي"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "احصل على الكتاب"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "احذف النتائج من القائمة"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "شغّل / ألبِث"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "صححت الشدة"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "صححت السرعة"
+
+#~ msgid "Edit"
+#~ msgstr "حرر"
+
+#~ msgid "Read"
+#~ msgstr "اقرأ"
+
+#~ msgid "Books"
+#~ msgstr "كتب"
+
+#~ msgid "View"
+#~ msgstr "عرض"
+
+#~ msgid "Speech"
+#~ msgstr "نطق"

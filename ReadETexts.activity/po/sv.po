@@ -1,0 +1,185 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2010-02-12 06:17+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "ETexter Läsning"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Tillbaka"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Föregående sida"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Föregående bokmärke"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Framåt"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Följande sida"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Följande bokmärke"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "Växla bokmärken"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Strecka under"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Fel"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Du måste ange åtminstone ett sökord."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Tid för anslutning har gått ut för "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Kunde inte ladda ned "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " sökväg i katalogen kan vara felaktig."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Framgång"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " lagts till i Dagboken."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Misslyckades"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Fel i hämtning av dokument från tub"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Bokmärke"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Zooma ut"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Zooma in"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Helskärm"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Föregående"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Följande"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Hämta bok"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Ta bort resultatlista"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Spela upp / Pausa"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "justerad stämma"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "justerad hastighet"
+
+#~ msgid "Edit"
+#~ msgstr "Redigera"
+
+#~ msgid "Read"
+#~ msgstr "Läs"
+
+#~ msgid "Books"
+#~ msgstr "Böcker"
+
+#~ msgid "View"
+#~ msgstr "Visa"
+
+#~ msgid "Speech"
+#~ msgstr "Tal"

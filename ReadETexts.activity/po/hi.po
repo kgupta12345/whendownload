@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-12-07 21:35+0200\n"
+"Last-Translator: Vivek <fxtheme@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "ईटैक्स्ट पढ़ें"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"डाउनलोड करें और मुफ्त में हजारों ई-पुस्तके पढ़ें सादे टेक्स फार्मेट में, "
+"प्रोजेक्ट गुटेनबर्ग से!"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "पीछे"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "पिछला पेज"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "पिछला पसंदीदा"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "आगे"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "अगला पेज"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "अगला पसंदीदा"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "पसंदीदा टॉगल करें"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "रेखांकित"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "त्रुटि"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "आपको कम से कम एक खोज शब्द भरना होगा."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "के लिए कनेक्शन टाइमआउट हो गया "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "डाउनलोड नहीं कर सका "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " कैटलॉग में पथ गलत हो सकता है."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "सफलता"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " दैनिकी में जोड़ा गया."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "असफलता"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "ट्यूब से दस्तावेज़ प्राप्त करने में त्रुटि"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "पसंदीदा"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "छोटे आकार में दिखाएँ"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "बड़े आकार में दिखाएँ"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "पूर्ण स्क्रीन"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "पिछला"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "अगला"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "पुस्तक लाएँ"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "परिणाम सूची मिटाएँ"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "बजाएँ / ठहरें"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "सुर एडजस्ट किया"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "दर एडजस्ट किया"
+
+#~ msgid "Edit"
+#~ msgstr "संपादन"
+
+#~ msgid "Read"
+#~ msgstr "पढ़ें"
+
+#~ msgid "Books"
+#~ msgstr "पुस्तिकें"
+
+#~ msgid "View"
+#~ msgstr "दृश्य"
+
+#~ msgid "Speech"
+#~ msgstr "वार्ता"

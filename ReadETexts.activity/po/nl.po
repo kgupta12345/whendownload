@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-02-21 20:07+0200\n"
+"Last-Translator: whe <heppew@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "E-Teksten lezen"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"Download en lees duizenden vrije e-boeken in platte tekst formaat van "
+"Project Gutenberg!"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Terug"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Vorige bladwijzer"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Vooruit"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Volgende bladwijzer"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "Bladwijzer aan/uit"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Onderstreep"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Fout"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Je moet ten minste een zoekwoord opgeven."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Verbinding verbroken gedurende "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Kon niet downloaden "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " pad ik catalogus kan fout zijn."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Succes"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " toegevoegd aan Dagboek."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Mislukt"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Fout tijdens verkrijgen van document van buis"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Zoom uit"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Schermvullend"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Vorige"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Volgende"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Boek ophalen"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Verwijder resultatenlijst"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Afspelen / Pauze"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "toonhoogte aangepast"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "snelheid aangepast"
+
+#~ msgid "Edit"
+#~ msgstr "Bewerken"
+
+#~ msgid "Read"
+#~ msgstr "Lezen"
+
+#~ msgid "Books"
+#~ msgstr "Boeken"
+
+#~ msgid "View"
+#~ msgstr "Beeld"
+
+#~ msgid "Speech"
+#~ msgstr "Spraak"

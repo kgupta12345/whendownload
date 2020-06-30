@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2012-08-21 23:06+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pbs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "gyajaut kily'e"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "kue'e"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Ne nixii sevaa"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "sevaa nde'es"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Mad-ua"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Ne nixii likiu'uch'"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "likiu'uch nde'es"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "Matsjau li'iajaun' maiñ nip li'iajaun nde'es"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Me'es sad-ia'"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Ndich'u"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "tumei ma nanjuts nda kily'e ravu se tuta'aú."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "nip ndania'at maka'am niviaiñ ravu "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "kad-ep ndania'at mapu'u ravu se mavejep "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " niñ'eje' kad-ep lik'iajam majau."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Majau"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " mamejep ne xiñi'iu matsjau."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Ndich'u"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Ndich'u se ku'a lakeje ne nguk'uix"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Nde'es"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Manats'ei'"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "manandaí"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "mi'ia kutau nak'ujuly'"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Sevaa"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Likiu'uch'"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Mamei ne nguk'uix"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "malejei' ne nde'ets kanen makejé"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Maleiñ / mama'ai"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "lijiú majau"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "majaú n'ujuñ"
+
+#~ msgid "Edit"
+#~ msgstr "Malejeiñ"
+
+#~ msgid "Read"
+#~ msgstr "Ma'ajau kily'e"
+
+#~ msgid "Books"
+#~ msgstr "Ngk'uix keich' kily'e"
+
+#~ msgid "View"
+#~ msgstr "Manú"
+
+#~ msgid "Speech"
+#~ msgstr "Niaa"

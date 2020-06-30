@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 00:31-0500\n"
+"PO-Revision-Date: 2013-04-06 08:34+0200\n"
+"Last-Translator: andika <andika@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Read ETexts"
+msgstr "Baca ETeks"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download and read thousands of free e-books in plain text format from "
+"Project Gutenberg!"
+msgstr ""
+"Unduh dan baca ribuan e-book bebas dalam format teks polos dari Projek "
+"Gutenberg!"
+
+#: ReadEtextsActivity.py:391 readtoolbar.py:45
+msgid "Back"
+msgstr "Mundur"
+
+#: ReadEtextsActivity.py:394 readtoolbar.py:48
+msgid "Previous page"
+msgstr "Halaman sebelumnya"
+
+#: ReadEtextsActivity.py:397 readtoolbar.py:51
+msgid "Previous bookmark"
+msgstr "Tanda alamat sebelumnya"
+
+#: ReadEtextsActivity.py:407 readtoolbar.py:61
+msgid "Forward"
+msgstr "Maju"
+
+#: ReadEtextsActivity.py:410 readtoolbar.py:64
+msgid "Next page"
+msgstr "Halaman selanjutnya"
+
+#: ReadEtextsActivity.py:413 readtoolbar.py:67
+msgid "Next bookmark"
+msgstr "Tanda alamat selanjutnya"
+
+#: ReadEtextsActivity.py:452 readtoolbar.py:112
+msgid "Toggle Bookmark"
+msgstr "Jungkitkan Penanda Alamat"
+
+#: ReadEtextsActivity.py:463 readtoolbar.py:123
+msgid "Underline"
+msgstr "Garisbawahi"
+
+#: ReadEtextsActivity.py:1148 ReadEtextsActivity.py:1201
+#: ReadEtextsActivity.py:1253
+msgid "Error"
+msgstr "Galat"
+
+#: ReadEtextsActivity.py:1148
+msgid "You must enter at least one search word."
+msgstr "Anda mesti memasukkan paling tidak satu kata cari."
+
+#: ReadEtextsActivity.py:1201
+msgid "Connection timed out for "
+msgstr "Koneksi kehabisan waktu untuk "
+
+#: ReadEtextsActivity.py:1253
+msgid "Could not download "
+msgstr "Tak bisa mengunduh "
+
+#: ReadEtextsActivity.py:1253
+msgid " path in catalog may be incorrect."
+msgstr " path dalam katalog mungkin salah."
+
+#: ReadEtextsActivity.py:1286
+msgid "Success"
+msgstr "Sukses"
+
+#: ReadEtextsActivity.py:1286
+msgid " added to Journal."
+msgstr " ditambahkan ke Jurnal."
+
+#: ReadEtextsActivity.py:1404
+msgid "Failure"
+msgstr "Kegagalan"
+
+#: ReadEtextsActivity.py:1404
+msgid "Error getting document from tube"
+msgstr "Galat saat mengambil dokumen dari tabung"
+
+#: readsidebar.py:48
+msgid "Bookmark"
+msgstr "Tanda alamat"
+
+#: readtoolbar.py:217
+msgid "Zoom out"
+msgstr "Perkecil"
+
+#: readtoolbar.py:223
+msgid "Zoom in"
+msgstr "Perbesar"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Layar Penuh"
+
+#: readtoolbar.py:279
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: readtoolbar.py:286
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: readtoolbar.py:338
+msgid "Get Book"
+msgstr "Ambil Buku"
+
+#: readtoolbar.py:345
+msgid "Remove Results List"
+msgstr "Hapus Daftar Hasil"
+
+#: readtoolbar.py:405
+msgid "Play / Pause"
+msgstr "Putar / Jeda"
+
+#: readtoolbar.py:455
+msgid "pitch adjusted"
+msgstr "pitch disesuaikan"
+
+#: readtoolbar.py:464
+msgid "rate adjusted"
+msgstr "laju disesuaikan"
+
+#~ msgid "Edit"
+#~ msgstr "Sunting"
+
+#~ msgid "Read"
+#~ msgstr "Baca"
+
+#~ msgid "Books"
+#~ msgstr "Buku"
+
+#~ msgid "View"
+#~ msgstr "Tilik"
+
+#~ msgid "Speech"
+#~ msgstr "Bicara"
